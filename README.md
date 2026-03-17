@@ -7,7 +7,7 @@
   <strong style="font-size: 20px;">I'm Muhammad Kabir</strong>
 </p>
 
-🎓 Postdoctoral Researcher in Bioinformatics & Machine Learning  
+🎓 Associate Researcher in Bioinformatics & Machine Learning  
 📍 Lund, Sweden  
 🏫 Lund University – Biomedical Center (BMC)  
 
@@ -15,7 +15,7 @@
 
 ## 🚀 About Me  
 
-I am a **Postdoctoral Researcher** working at the intersection of **machine learning, bioinformatics, and computational biology**.  
+I am a **Associate Researcher** working at the intersection of **machine learning, bioinformatics, and computational biology**.  
 
 My research focuses on developing **advanced AI-driven methods** to analyze complex biological data, particularly for:  
 - Disease-causing genetic variation analysis  
@@ -111,8 +111,11 @@ I have a strong background in **statistical machine learning, deep learning, and
 
 ## 🎓 Academic Experience  
 
+**Associate Researcher**  
+Lund University, Sweden (2026 – Present)  
+
 **Postdoctoral Researcher**  
-Lund University, Sweden (2023 – Present)  
+Lund University, Sweden (2023 – 2026)  
 
 **Assistant Professor**  
 University of Management and Technology, Pakistan (2020 – 2023)  
