@@ -51,7 +51,6 @@ I have a strong background in **statistical machine learning, deep learning, and
 - Bioinformatics & Computational Biology  
 - Machine Learning / Deep Learning  
 - Genetic Variations & Disease Prediction  
-- Cancer Bioinformatics  
 - Protein & Peptide Prediction  
 - Bioimaging & Medical Image Analysis  
 
@@ -77,7 +76,6 @@ I have a strong background in **statistical machine learning, deep learning, and
 - Sequence-based Prediction Models  
 - Feature Engineering & Representation Learning  
 - Ensemble & Stacking Methods  
-- Protein Structure & Function Prediction  
 - Genetic Variant Classification  
 - High-dimensional Biological Data Analysis  
 
@@ -97,18 +95,6 @@ I have a strong background in **statistical machine learning, deep learning, and
 
 ---
 
-## 📚 Publications  
-
-📈 40+ peer-reviewed publications in journals such as:  
-- IEEE/ACM Transactions on Computational Biology and Bioinformatics  
-- Analytical Biochemistry  
-- Chemometrics and Intelligent Laboratory Systems  
-- Bioinformatics-related journals  
-
-👉 Full list available on Google Scholar  
-
----
-
 ## 🎓 Academic Experience  
 
 **Associate Researcher**  
@@ -119,25 +105,6 @@ Lund University, Sweden (2023 – 2026)
 
 **Assistant Professor**  
 University of Management and Technology, Pakistan (2020 – 2023)  
-
-- Teaching: AI, Machine Learning, Image Processing  
-- Supervised multiple MS students  
-
----
-
-## 🏆 Highlights  
-
-- Chinese Government Scholarship (PhD)  
-- Research awards for high-impact publications  
-- Editorial board member & active reviewer for leading journals  
-
----
-
-## 🌱 Current Focus  
-
-- AI for **genetic variation interpretation**  
-- **Explainable machine learning** in bioinformatics  
-- ML-driven approaches for **precision medicine**  
 
 ---
 
