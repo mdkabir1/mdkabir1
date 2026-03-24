@@ -3,7 +3,10 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
 </h1>
 
-<p align="left"> <strong style="font-size: 20px;">I'm Muhammad Kabir</strong></p>
+<p align="left"> 
+  <strong style="font-size: 20px;">I'm Muhammad Kabir</strong>
+</p>
+
 🎓 Associate Researcher in Bioinformatics & Machine Learning  
 📍 Lund, Sweden  
 🏫 Lund University – Biomedical Center (BMC)  
