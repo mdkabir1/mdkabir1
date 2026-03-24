@@ -56,20 +56,6 @@ I have a strong background in **statistical machine learning, deep learning, and
 
 ---
 
-## 🛠️ Skills & Tools  
-
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
-</p>
-
----
-
 ## 📌 Core Expertise  
 
 - Machine Learning & Deep Learning for Biological Data  
@@ -92,19 +78,6 @@ I have a strong background in **statistical machine learning, deep learning, and
 - Promoter and enhancer prediction  
 
 🔹 Multiple ML-based frameworks for protein and genomic sequence analysis  
-
----
-
-## 🎓 Academic Experience  
-
-**Associate Researcher**  
-Lund University, Sweden (2026 – Present)  
-
-**Postdoctoral Researcher**  
-Lund University, Sweden (2023 – 2026)  
-
-**Assistant Professor**  
-University of Management and Technology, Pakistan (2020 – 2023)  
 
 ---
 
