@@ -9,6 +9,7 @@
 🎓 Associate Researcher in Bioinformatics & Machine Learning  
 📍 Lund, Sweden  
 🏫 Lund University – Biomedical Center (BMC)  
+📫 Linkedin **[https://www.linkedin.com/in/mdkabircs/](https://www.linkedin.com/in/mdkabircs/)**
 
 ---
 
@@ -21,7 +22,7 @@ My research focuses on developing **advanced AI-driven methods** to analyze comp
 I have a strong background in **statistical machine learning, deep learning, and evolutionary computation**, with a consistent track record of **peer-reviewed publications** and **computational tool development**.
 🔬 I enjoy building **theoretically sound and scalable ML models** that solve real-world biological problems.
 
-📫 **Email:** Muhammad.kabir@med.lu.se  
+📫 **Email:** Muhammad.kabir@med.lu.se  or kabiricp@gmail.com
 ---
 
 ⭐ *Open to research collaborations, academic opportunities, and interdisciplinary projects*
