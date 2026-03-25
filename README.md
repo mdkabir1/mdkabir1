@@ -1,5 +1,4 @@
-<h1 align="left">
-  Hi there (اَلسَّلَامُ عَلَيْكُم‎)
+<h1 align="center"> Hi there (اَلسَّلَامُ عَلَيْكُم‎)
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
 </h1>
 
